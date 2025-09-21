@@ -28,7 +28,6 @@ This project is a web application for sentiment analysis. It allows users to inp
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, Flask
 - **Machine Learning**: Scikit-learn, NLTK
-- **Deployment**: Render
 
 ## Installation
 To run this project locally, follow these steps:
@@ -74,4 +73,4 @@ If you would like to contribute to this project, please follow these steps:
 6. Open a pull request.
 
 ## Contact
-If you have any questions or feedback, please feel free to contact me at [kottarivaibhav@gmail.com].
+If you have any questions or feedback, please feel free to contact me at [asurijayanth@gmail.com].
